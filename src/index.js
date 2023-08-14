@@ -1,3 +1,3 @@
 console.log("How are you today?");
-import {pageFill} from "/node_modules/page-load.js";
+import {pageFill} from "/modules/page-load.js";
 pageFill();
